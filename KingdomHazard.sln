@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KingdomHazard", "KingdomHazard.csproj", "{C3025307-5D33-B14C-9CA8-A36E466031F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KingdomHazard.Editor", "KingdomHazard.Editor.csproj", "{7957CF5D-2A89-CF49-F9EA-EFCD5B2B7252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3025307-5D33-B14C-9CA8-A36E466031F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3025307-5D33-B14C-9CA8-A36E466031F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3025307-5D33-B14C-9CA8-A36E466031F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3025307-5D33-B14C-9CA8-A36E466031F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7957CF5D-2A89-CF49-F9EA-EFCD5B2B7252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7957CF5D-2A89-CF49-F9EA-EFCD5B2B7252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7957CF5D-2A89-CF49-F9EA-EFCD5B2B7252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7957CF5D-2A89-CF49-F9EA-EFCD5B2B7252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ZidQR" size="5.000000 5.000000" />
+    <ImageTarget name="ZidClasicQR" size="5.000000 5.000000" />
+    <ImageTarget name="TurnQR" size="5.000000 5.000000" />
+    <ImageTarget name="TurnClasicQR" size="5.000000 5.000000" />
+    <ImageTarget name="DummyTarget2" size="5.000000 5.000000" />
+    <ImageTarget name="DummyTarget1" size="5.000000 5.000000" />
+    <ImageTarget name="CastelQr" size="5.000000 5.000000" />
+    <ImageTarget name="CastelClasicQR" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
